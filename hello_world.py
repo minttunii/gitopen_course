@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print("Hello World!")
-=======
-print("Hello world!")
->>>>>>> intermediatebrances/master
+print("Hello from feature")
