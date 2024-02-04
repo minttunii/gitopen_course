@@ -1,1 +1,1 @@
-# This is a README 
+This is a repository for Git Open course exercises.
